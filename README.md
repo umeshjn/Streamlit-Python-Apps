@@ -8,6 +8,22 @@ Below are some of the apps which I have developed using Streamlit.
 
 <br>
 
+### Coffee Can Investing
+
+----------------------------------------------
+
+Investing in stock market is always difficult for the retail investors but not if you follow Coffee Can Investing. 
+
+![](/CoffeeCanInvesting/coffecan1.PNG)
+
+<br>
+
+This is backtested using the historical data for some of the top companies in Indian stock market. These are well known companies which have been in business for decades.
+
+![](/CoffeeCanInvesting/coffecan2.PNG)
+
+<br>
+
 ### Movie Recommendation Engine
 
 ----------------------------------------------
